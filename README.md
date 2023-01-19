@@ -1,4 +1,7 @@
-# hello-world
+The Learning Resource
+Used: Props, Inject, Provide, Slots, component tag
+
+We can add the Learning Resource and Delete it from the list.
 
 ## Project setup
 ```
